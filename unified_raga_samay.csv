@@ -1,0 +1,92 @@
+raga,window,status,traditional_time,rasa_token,sandhi_prakash,sources,notes
+Lalit,dawn,fixed,last prahar of night into dawn,bhakti,yes,"Bor et al. 1999; Kaufmann 1968; Bhatkhande KPM","pre-sunrise side of dawn arc"
+Ramkali,dawn,fixed,early morning around sunrise,bhakti,yes,"Bor et al. 1999; Kaufmann 1968","spelling unified: Ramkali (was Ramkeli in Part A)"
+Bhatiyar,dawn,fixed,last prahar of night to daybreak,bhakti,yes,"Kaufmann 1968","pre-sunrise side"
+Bhairav,dawn,fixed,dawn / early morning,bhakti,yes,"Bor et al. 1999; Bhatkhande KPM",
+Ahir Bhairav,dawn,fixed,early morning,bhakti,yes,"Bor et al. 1999",
+Vibhas,dawn,fixed,dawn,joy,yes,"Kaufmann 1968",
+Kalingada,dawn,fixed,late night to dawn,shringara,yes,"Kaufmann 1968","light-leaning; pre-sunrise side"
+Sohini,dawn,fixed,last prahar of night (pre-dawn),shringara,yes,"Bor et al. 1999; Kaufmann 1968","CORRECTED: pre-sunrise side of dawn arc, not post-sunrise"
+Bairagi,dawn,fixed,early morning,bhakti,yes,"modern (Ravi Shankar lineage)","modern raga; time by convention"
+Paraj,dawn,fixed,last prahar of night,shringara,yes,"Kaufmann 1968","replaces Part A 'Parasbasant'; Basant compound excluded as seasonal"
+Deshkar,morning,fixed,morning (first prahar of day),joy,no,"Bor et al. 1999; Bhatkhande KPM","allied to Bhoopali by scale; time distinguishes"
+Jaunpuri,morning,fixed,late morning (second prahar of day),karuna,no,"Bor et al. 1999; Kaufmann 1968","CORRECTED from Part A midday; straddles morning/midday boundary"
+Bilaskhani Todi,morning,fixed,late morning,karuna,no,"Bor et al. 1999","CORRECTED from Part A midday; Bhairavi-thaat despite the name"
+Gujari Todi,morning,fixed,late morning,karuna,no,"Bor et al. 1999",
+Miyan ki Todi,morning,fixed,late morning,karuna,no,"Bor et al. 1999; Bhatkhande KPM","alias: Todi"
+Komal Rishabh Asavari,morning,fixed,late morning,karuna,no,"Bhatkhande KPM",
+Alhaiya Bilaval,morning,fixed,late morning (second prahar),joy,no,"Bor et al. 1999","straddles morning/midday boundary"
+Desi,morning,fixed,late morning,karuna,no,"Kaufmann 1968",
+Gaud Sarang,midday,fixed,early afternoon (12-15),joy,no,"Bor et al. 1999; Wikipedia (verified 2026-11-06)","CORRECTED from Part A morning"
+Shuddha Sarang,midday,fixed,midday,joy,no,"Bor et al. 1999",
+Brindabani Sarang,midday,fixed,midday,shringara,no,"Bor et al. 1999",
+Bhimpalasi,midday,fixed,afternoon (third prahar of day),shringara,no,"Bor et al. 1999; Bhatkhande KPM",
+Multani,midday,fixed,late afternoon,karuna,no,"Bor et al. 1999; Kaufmann 1968",
+Patdeep,midday,fixed,afternoon,karuna,no,"Kaufmann 1968",
+Madhuvanti,midday,fixed,late afternoon,shringara,no,"modern (c. 20th century)","modern raga; time by convention"
+Dhani,midday,fixed,midday,joy,no,"Kaufmann 1968","light-leaning"
+Gauri,dusk,fixed,sunset (sandhi-prakash),bhakti,yes,"Kaufmann 1968",
+Purvi,dusk,fixed,sunset (sandhi-prakash),vira,yes,"Bor et al. 1999; Bhatkhande KPM",
+Shree,dusk,fixed,sunset (sandhi-prakash),bhakti,yes,"Bor et al. 1999; Bhatkhande KPM","spelling unified: Shree"
+Marwa,dusk,fixed,sunset (sandhi-prakash; straddles),vira,yes,"Bor et al. 1999; Kaufmann 1968",
+Puriya,dusk,fixed,sunset to early night,shringara,yes,"Bor et al. 1999","allied to Marwa/Sohini by scale"
+Puriya Dhanashree,dusk,fixed,sunset to early night,shringara,yes,"Bor et al. 1999",
+Yaman,evening,fixed,first prahar of night,shringara,no,"Bor et al. 1999; Bhatkhande KPM","alias: Yaman Kalyan (treated as one class here; note the purist distinction)"
+Bhoopali,evening,fixed,first prahar of night,bhakti,no,"Bor et al. 1999","alias: Bhup/Bhupali; allied to Deshkar/Shuddha Kalyan by scale"
+Shuddha Kalyan,evening,fixed,first prahar of night,bhakti,no,"Bor et al. 1999",
+Jait Kalyan,evening,fixed,first prahar of night,joy,no,"Kaufmann 1968",
+Puriya Kalyan,evening,fixed,early night,shringara,no,"Kaufmann 1968",
+Kedar,evening,fixed,first prahar of night,bhakti,no,"Bor et al. 1999",
+Hameer,evening,fixed,first prahar of night,vira,no,"Bor et al. 1999",
+Chhayanat,evening,fixed,first prahar of night,shringara,no,"Kaufmann 1968",
+Khamaj,evening,fixed,first prahar of night,shringara,no,"Kaufmann 1968","thumri-anga in light forms; khayal usage retains evening samay"
+Jhinjhoti,evening,fixed,evening,shringara,no,"Kaufmann 1968","light-leaning"
+Durga,night,fixed,second prahar of night (21-24),joy,no,"Bhatkhande KPM; Wikipedia (verified 2026-11-06)","CORRECTED from Part A evening; straddles evening/night discretization boundary"
+Bihag,night,fixed,second prahar of night,shringara,no,"Bor et al. 1999",
+Maru Bihag,night,fixed,second prahar of night,shringara,no,"modern (Jaipur/agra usage)","CORRECTED: unified with Bihag (was evening in Part B)"
+Jaijaivanti,night,fixed,second prahar of night,shringara,no,"Bor et al. 1999","CORRECTED from Part A evening; spelling unified: Jaijaivanti"
+Bageshri,night,fixed,second prahar of night,shringara,no,"Bor et al. 1999",
+Rageshri,night,fixed,second prahar of night,shringara,no,"Kaufmann 1968",
+Shankara,night,fixed,second prahar of night (21-24),vira,no,"Kaufmann 1968","straddles evening/night discretization boundary"
+Nand,night,fixed,second prahar of night,shringara,no,"Kaufmann 1968","moved from Part B evening for consistency with Bihag-anga siblings"
+Tilak Kamod,night,fixed,second prahar of night,joy,no,"Bor et al. 1999",
+Khambavati,night,fixed,second prahar of night,shringara,no,"Kaufmann 1968",
+Gorakh Kalyan,night,fixed,second to third prahar of night,shringara,no,"modern usage",
+Darbari,night,fixed,late night (third prahar),vira,no,"Bor et al. 1999; Bhatkhande KPM","alias: Darbari Kanada"
+Adana,night,fixed,late night,vira,no,"Bor et al. 1999; Kaufmann 1968","CORRECTED rasa: vira/gambhir (was 'joyful' - indefensible)"
+Malkauns,night,fixed,late night (third prahar),bhakti,no,"Bor et al. 1999; Bhatkhande KPM",
+Chandrakauns,night,fixed,late night,bhakti,no,"modern (c. 20th century)","modern raga"
+Jogkauns,night,fixed,late night,vira,no,"modern (Jagannathbuwa Purohit 1944)","modern raga"
+Shahana,night,fixed,late night,shringara,no,"Kaufmann 1968",
+Bhairavi,anytime,anytime,"any hour; conventional concluding raga (sarva-kalika)",karuna,no,"Bor et al. 1999; Jairazbhoy 1971","CORRECTED: excluded from time supervision (was midday Part A / morning Part B)"
+Kafi,anytime,light,"flexible; thumri/light vehicle",shringara,no,"Kaufmann 1968","CORRECTED: excluded (was night in Part B), consistent with Pilu"
+Pilu,anytime,light,flexible,shringara,no,"Kaufmann 1968",excluded
+Tilang,anytime,light,flexible,shringara,no,"Kaufmann 1968",excluded
+Mand,anytime,light,flexible,joy,no,"folk-derived",excluded
+Gavti,anytime,light,flexible,shringara,no,"light/instrumental usage",excluded
+Sindhura,anytime,light,flexible,shringara,no,"Kaufmann 1968",excluded
+Gara,anytime,light,"late evening/night; thumri-anga",shringara,no,"Kaufmann 1968","CORRECTED: was 'morning' in Part A (inherited error from Roy et al.); excluded as light"
+Miyan Malhar,night,seasonal,"monsoon season; night when in season",karuna,no,"Bor et al. 1999",excluded from time supervision (seasonal dominates)
+Gaud Malhar,night,seasonal,monsoon,joy,no,"Bor et al. 1999",excluded
+Ramdasi Malhar,night,seasonal,monsoon,shringara,no,"Kaufmann 1968",excluded
+Megh,night,seasonal,monsoon,vira,no,"Bor et al. 1999",excluded
+Desh,night,seasonal,"second prahar of night; strongly monsoon-associated",shringara,no,"Bor et al. 1999","CORRECTED: moved to seasonal class for consistency (was supervised 'night')"
+Basant,dawn,seasonal,"spring; late night to dawn when in season",shringara,yes,"Bor et al. 1999",excluded
+Bahar,night,seasonal,spring,joy,no,"Bor et al. 1999",excluded
+Basanti Kedar,evening,seasonal,spring,shringara,no,"rare compound",excluded
+Hindol,morning,seasonal,"spring; morning when in season",vira,no,"Bor et al. 1999","CORRECTED: moved to seasonal class (classical spring-raga iconography)"
+Hansadhwani,evening,imported,"Carnatic import; evening by modern concert habit",joy,no,"Carnatic: Mysore tradition","excluded from time supervision (no traditional Hindustani samay)"
+Kirwani,night,imported,Carnatic import,karuna,no,"Carnatic mela 21","excluded"
+Kalavati,night,imported,Carnatic-derived; night by habit,shringara,no,"Carnatic janya","excluded"
+Abhogi,night,imported,Carnatic import; night by habit,karuna,no,"Carnatic janya","excluded"
+Jog,night,imported,"modern raga; night by habit",shringara,no,"modern (20th century)","excluded from time supervision; kept for raga-ID"
+Hindol Pancham,morning,seasonal,spring,vira,no,"rare compound",excluded
+Lalita Pancham,dawn,fixed,last prahar of night,bhakti,yes,"Kaufmann 1968","rare compound"
+Jogiya,dawn,fixed,early morning (Bhairav-anga),karuna,yes,"Kaufmann 1968","added after Saraga inventory surfaced"
+Khat,morning,fixed,late morning (Asavari-anga),vira,no,"Kaufmann 1968","added after Saraga inventory surfaced"
+Nat Bhairav,dawn,fixed,early morning,bhakti,yes,"modern (Bhairav-anga)","added after Saraga inventory surfaced"
+Nat Kamod,night,fixed,second prahar of night,shringara,no,"Kaufmann 1968","added after Saraga inventory surfaced"
+Suha,midday,fixed,midday (Kanada-anga),karuna,no,"Kaufmann 1968","added after Saraga inventory surfaced"
+Madhukauns,night,fixed,late night,shringara,no,"modern (c. 20th century)","added after Saraga inventory surfaced"
+Saraswati,evening,imported,"Carnatic import; evening by habit",shringara,no,"Carnatic mela-derived","excluded from time supervision"
+Majh Khamaj,anytime,light,"thumri-anga; flexible",shringara,no,"light usage","excluded"
